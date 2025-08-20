@@ -1,0 +1,14 @@
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\bin\Debug\net9.0\classes-de-um-jogo.exe
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\bin\Debug\net9.0\classes-de-um-jogo.deps.json
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\bin\Debug\net9.0\classes-de-um-jogo.runtimeconfig.json
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\bin\Debug\net9.0\classes-de-um-jogo.dll
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\bin\Debug\net9.0\classes-de-um-jogo.pdb
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\obj\Debug\net9.0\classes-de-um-jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\obj\Debug\net9.0\classes-de-um-jogo.AssemblyInfoInputs.cache
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\obj\Debug\net9.0\classes-de-um-jogo.AssemblyInfo.cs
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\obj\Debug\net9.0\classes-de-um-jogo.csproj.CoreCompileInputs.cache
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\obj\Debug\net9.0\classes-de-um-jogo.dll
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\obj\Debug\net9.0\refint\classes-de-um-jogo.dll
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\obj\Debug\net9.0\classes-de-um-jogo.pdb
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\obj\Debug\net9.0\classes-de-um-jogo.genruntimeconfig.cache
+C:\Projects\LogicaProgramacao\classes-de-um-jogo\obj\Debug\net9.0\ref\classes-de-um-jogo.dll
