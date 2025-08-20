@@ -36,7 +36,7 @@ namespace classes_de_um_jogo
                     break;
             }
 
-            Console.WriteLine($"O {tipo} atacaou com {ataque}");
+            Console.WriteLine($"O {tipo} atacou com {ataque}");
         }
     }
 }
